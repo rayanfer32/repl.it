@@ -1,1 +1,1 @@
-print("this is awesome")
+print("this shuld be used in vscode")
