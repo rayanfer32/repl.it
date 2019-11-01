@@ -1,3 +1,3 @@
 def main():
-  print("y try again")
+  print("does ti really work")
   print("holy shit")
